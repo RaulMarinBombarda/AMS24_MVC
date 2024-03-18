@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mshpedj5G9bVzbnq2u5h5I9xLhboCee+bUvB7MsZIlJ5C5RBwKP1BBhyCEN+MDZaqCJwh2LYr6jTuNbnfLBtEw==",
+  "success": true,
+  "projectFilePath": "D:\\jeferson\\AMS2A.ClassObject\\AMS2A.ClassObject\\AMS2A.ClassObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RaulM\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\RaulM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\RaulM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\RaulM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
