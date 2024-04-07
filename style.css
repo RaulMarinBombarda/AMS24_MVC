@@ -1,0 +1,17 @@
+.header{
+    padding-top: 6rem;
+    background-color: aquamarine;
+}
+
+#title{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+}
+
+#colorbox{
+    margin: auto;
+    text-align: center;
+    width: 20%;
+
+}
